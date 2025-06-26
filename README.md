@@ -10,6 +10,7 @@ This project is an adaptation of the original repository available here: [Link t
 The original work was created by [manthan89-py](https://github.com/manthan89-py), whose foundational efforts I gratefully acknowledge. More information about the dataset can be found on the author’s blog (mentioned in the original repository).
 
 ## Modifications
+* All the changes I've made are in the file [app_V2.py](https://github.com/Oazin/mg74-DocFarm/blob/main/Flask%20Deployed%20App/app_V2.py)
 * I use the original app to imprement the predication
 * Form Telegram ChatBot, the users send picture of a leaves with disease
 * The message is trigger in n8n (n8n_DocFarm.json)
